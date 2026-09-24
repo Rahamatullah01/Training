@@ -63,3 +63,5 @@ todoList.push("Study", "Workout");
 todoList.unshift("Wake Up");
 todoList.pop();
 console.log(todoList);
+
+let name = prompt
